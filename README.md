@@ -73,7 +73,7 @@ npm start
 
 ## Demo Video
 
-[Link to demo video](https://example.com/demo)
+[Link to demo video](https://drive.google.com/file/d/1ieyE6Xvq12NLu-jV-UaGHtlOBpawZL2I/view?usp=sharing)
 
 ## Time Spent
 
@@ -82,4 +82,5 @@ Approximately 4 hours
 ## Challenges
 
 - Integrating streaming responses via WebSocket
+
 - Handling connection states and errors
